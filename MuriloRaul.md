@@ -16,5 +16,5 @@ Este site foi desenvolvido no âmbito do módulo "Tecnologias de Acesso a Base d
 
 ## Como executar:
 
-1. Copiar a pasta `wordpress` para `wamp64/www/wordpress`
+1. Copiar a pasta `wordpress` para `wamp64/www/`
 2. Importar `base_dados.sql` no phpMyAdmin
